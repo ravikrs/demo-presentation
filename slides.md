@@ -25,7 +25,7 @@ GH repo link: https://github.com/ravikrs/KMPDemo
 ### Why Use KMP?
 - Separate codebases for Android, iOS, and other platforms.
 - Duplicate effort for business logic and other core functionality.
-- "Duplication my be the root of all evil in software" - Robert C. Martin
+- "Duplication may be the root of all evil in software" - Robert C. Martin
 
 ---
 ## Multiplatform Advantages:
