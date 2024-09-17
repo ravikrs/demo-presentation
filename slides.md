@@ -89,11 +89,11 @@ GH repo link: https://github.com/ravikrs/KMPDemo
 ---
 ## Workshop
 ### Built a hello world KMP app for iOS, Android, Desktop and Web
-![demo-hello-world-with-vw-logo.png](img/demo-hello-world-with-vw-logo.png)
+![demo-hello-world-with-graphics.png](img/demo-hello-world-with-graphics.png)
 
 
 ### Sharing resources across multiple platforms
-![demo-hello-world-with-graphics.png](img/demo-hello-world-with-graphics.png)
+![demo-hello-world-with-vw-logo.png](img/demo-hello-world-with-vw-logo.png)
 
 
 ### Using KMP lib to develop shared logic/UI
