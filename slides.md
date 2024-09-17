@@ -1,5 +1,11 @@
 ## Kotlin Multiplatform (KMP): An Introduction
-#### Presented by: Ravi Singh
+Slide link: https://ravikrs.github.io/kmp-demo/
+
+![slides.png](img/slides.png)
+
+GH repo link: https://github.com/ravikrs/KMPDemo
+
+![ghrepo.png](img/ghrepo.png)
 
 ---
 
@@ -11,7 +17,7 @@
 ---
 ## Supported Platforms
 - **Mobile**: Android, iOS.
-- **Web** (alpha): Kotlin/JS.
+- **Web** (alpha): Kotlin/JS/WebAssembly.
 - **Desktop**: macOS, Linux, Windows.
 - **Server**: Kotlin/JVM/Ktor for server development.
 
